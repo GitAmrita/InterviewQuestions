@@ -1,0 +1,12 @@
+1. decrypt a file. There are 2 files given 1 plain text and encrypted text.
+only consider alphabets a-z and count the number of occurance of each in each file.
+max occurance of a alphabet in plain file corresponds to encrypted alphabet in enc file
+then decode a line of enc file. Needed to compile program on mac and eclipse.
+
+2. Design facebook feed. Include DB tables, servers etc
+
+3. How would you generated unique phone numbers . Load balancing tech on top of the algorithm
+to generate. High level design
+
+4. Basic db query + find all the anagrams from a list of anagram array and print 
+only the first instance. 

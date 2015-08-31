@@ -1,0 +1,4 @@
+what is LRU cache and how would you implement it.
+if 3 requests come to cache with same key to update the value how would you handle that
+
+asked question on joins

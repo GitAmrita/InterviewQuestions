@@ -1,0 +1,23 @@
+1. Find the max Sum from the root to the leaf.Here 3 is shared between right of 2 and left 
+of 7.
+		1
+	2		7
+    5            3            9
+
+2. a-b-c-d are networks, a can send message -val only to next node and b can receive from left 
+and right both. Implement Receive methods to count the number to networks. Ans = 4
+public abstract class direction{
+	public void SendToRight(int val);
+	public void SendToLeft(int val);
+	public bool HasRight();
+	public bool HasLeft();
+	public void ReceiveFromRight(val);
+	public void ReceiveFromLeft(val);		
+}
+
+3. Some sql question, create table and indexing
+
+4.Common value sub tree : For a tree if root = left = right and all children are CVST as well
+then it is a CVST.
+
+5. How hash table works

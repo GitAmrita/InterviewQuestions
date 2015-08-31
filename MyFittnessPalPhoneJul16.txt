@@ -1,0 +1,2 @@
+write a customized iterator that will only output odd numbers and skip even numbers.
+The iterator has 2 functions hasNext() and next()

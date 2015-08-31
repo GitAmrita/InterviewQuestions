@@ -1,0 +1,10 @@
+1. "a quick brown fox" is input output will be "fox brown quick a"
+asked me how to do better and asked difference between string buffer and builder.
+asked about my project- described rest member upload in cafepress
+
+2. girl asked about any pet project and asked me questions on face detection
+
+3. guy asked me to design customer teller system in database meaning anyone can be abra
+cust and some cust are tellers. you can deposit, withdraw and transfer.
+asked me the angle btw min and hour hand of clock
+and a finding duplicates from db table

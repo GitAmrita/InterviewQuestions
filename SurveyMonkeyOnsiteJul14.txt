@@ -1,0 +1,24 @@
+Write a class and constructor for a deck of card initialization . and write the shuffle method
+and do black box testing on it.
+
+I did have a card class { string suite and string rank} and a deck class {list<card>
+and the constructor went through while(all suits not sode){
+card(suite s, 1 till 13)
+} Shuffle method is YEats randomization algo.
+
+LRU implementation
+HTTP GET POST how cookies work , deadlock, implement stack, implement queue with stack (use s1 and 
+push values, then pop them in stack s2 and then pop from s2, you get FIFO numbers)
+
+"bdajkalkjglahdvlhavlhavlvavl" create a list of string where length of string = 4 and 
+compile the program
+
+how internet works overview, 
+input matrix
+123
+456
+789
+output matrix
+741
+852
+963

@@ -1,0 +1,23 @@
+1. Asked dsign question from their pipeline work flow. Some system drops log files in 
+their db , the log file moves across the pipeline and finally into some other db
+Design this system.
+
+2. Web crawling how would you do. answer BFS
+two sorted array find the median of the combined array. Better than O(n) solution.
+Answer approached by dividing the array in getting rid of the half where the median is not
+present
+
+3. string "acatjumpedoverthewall" input output "a cat jumped over the wall"
+given a dictionaly that contains all english words. ex jump, jumps,jumped etc 
+
+4.Given an array and a target sum, find if the sum is achievable by adding 2 elements
+in array. Use Hashset (hint since i used hasntable)
+Asked DB flow questions.
+
+5.Same Q as 4 only find all the pairs that add up to a target num. 
+Given record of 3 students and their marks in Science math and english
+A student ranks 1 if he has highest in Science irrespective of what he scored in Math and
+english. If There is a tie then check math marks and lastly english.
+Discuss a program to do so. (I took weighted sum and he said very good, asked me
+how will I select the weights. )
+Determine if a point (x,y) is inside or outside a triangle.

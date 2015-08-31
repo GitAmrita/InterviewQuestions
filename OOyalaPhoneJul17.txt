@@ -1,0 +1,19 @@
+find a duplicate from array.
+follow up :1) one duplicate
+2) n=6, 1 to 6, guaranteed all numbers are between 1 and 6, dup is also between 1 and 6
+can you do any better ?
+
+2) Algorithm to compress string
+
+"helloworld" --> "h1e1l2o1w1o1r1l1d1"
+"aaaaaabb" --> "a6b2"
+"hheeeeh" --> "h2e4h1" ***
+
+
+3) input of stock prices
+[10,12,15,16,9,5,8,11] --> order of time 
+ 
+ 9am 10am 11am .......
+ 
+ Maxium profit = $6 (buy at 10 sell at 16, or buy at 5 and sell at 11)
+ max = 0;

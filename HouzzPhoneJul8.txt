@@ -1,0 +1,2 @@
+asked a design database question basically wanted to know how to save a image in db.
+asked about composite index

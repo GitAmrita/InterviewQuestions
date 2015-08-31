@@ -1,0 +1,49 @@
+Write a method to detect if a given binary tree is a binary search tree
+
+public class Node{
+    public int val;
+    public Node right;
+    public Node left ;
+    
+    public Node (int value, Node leftN, Node rightN){
+        val = value;
+        left = leftN;
+        right = rightN;
+    }
+}
+public class rtnObj{
+bool isBST ;
+
+}
+public Node root = null;
+public void IsBinarySearchTree(node n){
+if(n.left == null && n.right == null){
+      return new rtnObj(true);
+}
+
+if(n.left == null)
+  rtnObjL = new rtnObj(true);
+else 
+rtnObjL = IsBinarySearchTree(n.left);
+
+if(n.right== null)
+  rtnObjR = new rtnObj(true);
+else 
+rtnObjR = IsBinarySearchTree(n.right);
+
+if(trnObjL.isBST && rtnObjR.isBST){
+
+if(n.left != null && n.right != null && n.left.val < n.val && n.right.val > n.val)
+    return new rtnObj(true);
+else if (n.left == null && n.right != null & n.right.val > n.val)
+    return new rtnObj(true);
+else if (n.left != null && n.right == null & n.right.val > n.val)
+    return new rtnObj(true);
+else 
+//left and right are both BST but fails at the root
+return new rtnObj(false);
+}
+else
+//left  or right child is not a BST
+return new rtnObj(false);
+}

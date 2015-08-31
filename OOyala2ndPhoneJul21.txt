@@ -1,0 +1,12 @@
+asked about the minute details about the general details of cafepress dataflow.
+ I  talked about the design and Lst call when I upload a design it creates suggestions
+
+questions asked
+
+what are the input params to DnL call?
+Do you send the image No or the actual byte data
+
+when you say image is cached what is the key val pair of your cache
+
+how do you do paginations when suggestions is huge and you cannot send at one go
+

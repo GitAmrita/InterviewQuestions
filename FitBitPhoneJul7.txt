@@ -1,0 +1,7 @@
+Given a file of integer output the frequency of occurence of the int values
+
+///  coding went very well . Used a hashtable and read each line of file one by one and 
+input in hash. key=file line and val = frequency starting with 1
+iterate from hash and print.
+
+little off with the syntax of java.
